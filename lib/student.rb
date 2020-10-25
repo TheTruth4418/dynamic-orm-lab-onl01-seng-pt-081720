@@ -22,7 +22,7 @@ Latest commit 22e88e6 on Oct 31, 2017
  History
  1 contributor
 11 lines (8 sloc)  231 Bytes
-  
+
 require_relative "../config/environment.rb"
 require 'active_support/inflector'
 require 'interactive_record.rb'
